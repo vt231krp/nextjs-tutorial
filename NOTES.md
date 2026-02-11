@@ -33,3 +33,11 @@ Quiz results
 
 In this chapter, I create dashboard page with two children pages and layout for them.
 ![alt text](/screenshots/9.png)
+
+## Chapter 5. Navigating Between Pages
+
+Quiz results
+![alt text](/screenshots/10.png)
+
+I used the usePathname hook to get the path name and dynamically update styles when the page changed.
+![alt text](/screenshots/11.png)
