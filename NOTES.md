@@ -25,3 +25,11 @@ Quiz results
 
 In this chapter, I imported 2 fonts (Inter, Lusitana) and added responsive images for the hero section for mobile and desktop screens.
 Also I added back background styles for AcmeLogo component container.
+
+## Chapter 4. Creating Layouts and Pages
+
+Quiz results
+![alt text](/screenshots/8.png)
+
+In this chapter, I create dashboard page with two children pages and layout for them.
+![alt text](/screenshots/9.png)
