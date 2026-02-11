@@ -41,3 +41,14 @@ Quiz results
 
 I used the usePathname hook to get the path name and dynamically update styles when the page changed.
 ![alt text](/screenshots/11.png)
+
+## Chapter 6. Setting Up Your Database
+
+Before, I have registered with my github on vercel and deploy this project
+![alt text](/screenshots/12.png)
+Then I created database using Neon provider and seed with data.
+![alt text](/screenshots/13.png)
+
+Quiz results
+![alt text](/screenshots/14.png)
+![alt text](/screenshots/15.png)
