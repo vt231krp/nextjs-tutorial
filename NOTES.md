@@ -52,3 +52,14 @@ Then I created database using Neon provider and seed with data.
 Quiz results
 ![alt text](/screenshots/14.png)
 ![alt text](/screenshots/15.png)
+
+## Chapter 7. Fetching Data
+
+Quiz results
+![alt text](/screenshots/16.png)
+![alt text](/screenshots/17.png)
+![alt text](/screenshots/18.png)
+![alt text](/screenshots/19.png)
+![alt text](/screenshots/20.png)
+
+In this chapter, I added data fetching from database.
