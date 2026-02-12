@@ -82,3 +82,15 @@ I set up linter and server side form validate using useActionStete hook to impro
 
 ![alt text](/screenshots/19.png)
 ![alt text](/screenshots/20.png)
+
+I set up auth process by credentials usign NextAuth.
+
+## Chapter 15. Adding Metadata
+
+![alt text](/screenshots/21.png)
+
+I added metadata to my app. I used title template to define template for my page titles.
+
+# Course Completed!
+
+![alt text](/screenshots/22.png)
