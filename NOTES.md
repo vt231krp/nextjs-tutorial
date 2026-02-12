@@ -70,3 +70,10 @@ I implemented CRUD operations for invoices usign nextjs actions with zod validat
 ![alt text](/screenshots/16.png)
 
 In this chapter, I added error.tsx and not-found.tsx to handle unexpected errors and unexisted data (invoices).
+
+## Chapter 13. Improving Accessibility
+
+![alt text](/screenshots/17.png)
+![alt text](/screenshots/18.png)
+
+I set up linter and server side form validate using useActionStete hook to improve accessibility in my forms.
