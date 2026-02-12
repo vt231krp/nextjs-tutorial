@@ -37,3 +37,7 @@ Then I created database using Neon provider and seed with data.
 ## Chapter 7. Fetching Data
 
 In this chapter, I added data fetching from database.
+
+## Chapter 8. Static and Dynamic Rendering
+
+![alt text](/screenshots/7.png)
