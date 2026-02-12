@@ -55,3 +55,11 @@ In this chapter, I implemented streaming data loading with React Suspense and lo
 ![alt text](/screenshots/11.png)
 
 In this capter, I implemented search and pagination functionality using useSearchParams, usePathname and useRouter hooks for invoices.
+
+## Chapter 11. Mutating Data
+
+![alt text](/screenshots/12.png)
+![alt text](/screenshots/13.png)
+![alt text](/screenshots/14.png)
+
+I implemented CRUD operations for invoices usign nextjs actions with zod validation and cache revalidation.
