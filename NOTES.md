@@ -63,3 +63,10 @@ In this capter, I implemented search and pagination functionality using useSearc
 ![alt text](/screenshots/14.png)
 
 I implemented CRUD operations for invoices usign nextjs actions with zod validation and cache revalidation.
+
+## Chapter 12. Handling Errors
+
+![alt text](/screenshots/15.png)
+![alt text](/screenshots/16.png)
+
+In this chapter, I added error.tsx and not-found.tsx to handle unexpected errors and unexisted data (invoices).
