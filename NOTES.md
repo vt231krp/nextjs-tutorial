@@ -48,3 +48,10 @@ In this chapter, I added data fetching from database.
 ![alt text](/screenshots/9.png)
 
 In this chapter, I implemented streaming data loading with React Suspense and loading.tsx.
+
+## Chapter 10. Adding Search and Pagination
+
+![alt text](/screenshots/10.png)
+![alt text](/screenshots/11.png)
+
+In this capter, I implemented search and pagination functionality using useSearchParams, usePathname and useRouter hooks for invoices.
