@@ -41,3 +41,10 @@ In this chapter, I added data fetching from database.
 ## Chapter 8. Static and Dynamic Rendering
 
 ![alt text](/screenshots/7.png)
+
+## Chapter 9. Streaming
+
+![alt text](/screenshots/8.png)
+![alt text](/screenshots/9.png)
+
+In this chapter, I implemented streaming data loading with React Suspense and loading.tsx.
