@@ -77,3 +77,8 @@ In this chapter, I added error.tsx and not-found.tsx to handle unexpected errors
 ![alt text](/screenshots/18.png)
 
 I set up linter and server side form validate using useActionStete hook to improve accessibility in my forms.
+
+## Chapter 14. Adding Authentication
+
+![alt text](/screenshots/19.png)
+![alt text](/screenshots/20.png)
